@@ -1,0 +1,38 @@
+[
+    { "eventId": "e-0010", "type": "ticket.created", "occurredAt": "2026-01-03T18:55:00Z", "ticketId": "T-1007", "priority": "HIGH", "scope": { "months": 3
+    } },
+    { "eventId": "e-0004", "type": "ticket.created", "occurredAt": "2024-08-31T22:47:00Z", "ticketId": "T-1004", "priority": "LOW", "scope": { "months": 6 }
+    },
+    { "eventId": "e-0007", "type": "ticket.created", "occurredAt": "2025-01-31T16:20:00Z", "ticketId": "T-1003", "priority": "MEDIUM", "scope": { "months":
+    1 } },
+    { "eventId": "e-0013", "type": "ticket.created", "occurredAt": "2026-12-26T23:59:00Z", "ticketId": "T-1008", "priority": "MEDIUM", "scope": { "months":
+    3 } },
+    { "eventId": "e-0002", "type": "ticket.created", "occurredAt": "2024-02-29T14:05:00Z", "ticketId": "T-1002", "priority": "URGENT", "scope": { "years": 1
+    } },
+    { "eventId": "e-0008", "type": "ticket.created", "occurredAt": "2025-03-02T07:15:00Z", "ticketId": "T-1006", "priority": "HIGH", "scope": { "months": 3
+    } },
+    { "eventId": "e-0017", "type": "ticket.created", "occurredAt": "2027-02-28T09:00:00Z", "ticketId": "T-3004", "priority": "URGENT", "scope": { "months":
+    2 } },
+    { "eventId": "e-0011", "type": "ticket.created", "occurredAt": "2026-09-25T09:00:00Z", "ticketId": "T-1009", "priority": "URGENT", "scope": { "months":
+    3 } },
+    { "eventId": "e-0001", "type": "ticket.created", "occurredAt": "2024-01-31T09:12:00Z", "ticketId": "T-1001", "priority": "MEDIUM", "scope": { "months":
+    1 } },
+    { "eventId": "e-0016", "type": "ticket.created", "occurredAt": "2027-01-31T14:10:00Z", "ticketId": "T-3003", "priority": "LOW", "scope": { "months": 3 }},
+    { "eventId": "e-0009", "type": "ticket.created", "occurredAt": "2025-09-25T10:00:00Z", "ticketId": "T-1011", "priority": "MEDIUM", "scope": { "months":
+    3 } },
+    { "eventId": "e-0003", "type": "ticket.closed", "occurredAt": "2024-06-10T08:00:00Z", "ticketId": "T-1002" },
+    { "eventId": "e-0014", "type": "ticket.created", "occurredAt": "2027-01-28T08:45:00Z", "ticketId": "T-3001", "priority": "HIGH", "scope": { "months": 3
+    } },
+    { "eventId": "e-0006", "type": "ticket.created", "occurredAt": "2025-02-02T13:40:00Z", "ticketId": "T-1005", "priority": "MEDIUM", "scope": { "months":
+    4 } },
+    { "eventId": "e-0012", "type": "ticket.created", "occurredAt": "2026-10-01T12:00:00Z", "ticketId": "T-1012", "priority": "URGENT", "scope": { "months":
+    3 } },
+    { "eventId": "e-0008", "type": "ticket.created", "occurredAt": "2025-03-02T07:15:00Z", "ticketId": "T-1006", "priority": "HIGH", "scope": { "months": 3
+    } },
+    { "eventId": "e-0015", "type": "ticket.created", "occurredAt": "2027-01-29T11:20:00Z", "ticketId": "T-3002", "priority": "MEDIUM", "scope": { "months":
+    3 } },
+    { "eventId": "e-0005", "type": "ticket.created", "occurredAt": "2024-11-28T11:30:00Z", "ticketId": "T-1010", "priority": "HIGH", "scope": { "months": 3
+    } },
+    { "eventId": "e-0005", "type": "ticket.created", "occurredAt": "2024-11-28T11:30:00Z", "ticketId": "T-1010", "priority": "HIGH", "scope": { "months": 3
+    } }
+]    
